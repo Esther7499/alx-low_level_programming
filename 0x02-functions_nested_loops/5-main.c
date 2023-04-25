@@ -29,9 +29,4 @@ int main(void)
     _putchar('\n');
     return (0);
 }
-julien@ubuntu:~/0x02$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 5-main.c 5-sign.c -o 5-sign
-julien@ubuntu:~/0x02$ ./5-sign 
-+, 1
-0, 0
-+, 1
--, /
+
