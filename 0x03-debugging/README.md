@@ -1,2 +1,1 @@
-Debugging
- Project - ox03 .C
+all debugging task
