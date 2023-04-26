@@ -1,5 +1,3 @@
-1-main.c CODE
-
 #include <stdio.h>
 
 /**
