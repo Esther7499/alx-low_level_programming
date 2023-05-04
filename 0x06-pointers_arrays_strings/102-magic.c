@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 
 int main(void)
 {
@@ -21,4 +22,5 @@ p = &n;
 printf("a[2] = %d\n", a[2]);
 return (0);
 }
+
 
